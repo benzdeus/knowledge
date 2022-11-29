@@ -10,5 +10,4 @@ SELECT * FROM xxx
 
 
 ## React
-
 - บทที่ 1
