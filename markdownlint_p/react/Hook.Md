@@ -6,9 +6,10 @@
 
 -  [useState](useState.MD)
 -  [useEffect](useEffect.MD)
--  useReducer
--  useContext
+-  [useContext](UseContext.MD)
+-  [useReducer](UseReducer.MD)
 -  useMemo
 -  useCallBack 
--  useSelector การดึงข้อมูลมาจาก Reducer
--  useDispatch บันทึก/เปลี่ยนแปลงลงใน Reducer
+-  [useRef](UseRef.MD)
+<!-- -  useSelector การดึงข้อมูลมาจาก Reducer
+-  useDispatch บันทึก/เปลี่ยนแปลงลงใน Reducer -->

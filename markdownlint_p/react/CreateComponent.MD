@@ -14,7 +14,7 @@ class Example extends React.Component {
 }
 export default Example
 ```
-  - การสร้าง Component แบบ Function Component คนส่วนใหญ่จะนิยมเขียนแบบ  Function Component เพราะไม่มีการประกาศ render() แบบ Class Component แต่จะสามารถ return() ค่าออกมาได้เลย 
+  - การสร้าง Component แบบ Function Component คนส่วนใหญ่จะนิยมเขียนแบบ  Function Component เพราะไม่มีการประกาศ render() แบบ Class Component แต่จะสามารถ return() ค่าออกมาได้เลย (คำสั่งลัดในการสร้าง Component => rfc)
   
 ```js
 // Example1
